@@ -1,0 +1,6 @@
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\satyan\sturdy-dollop\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
